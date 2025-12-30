@@ -30,6 +30,6 @@ An interactive, data-driven mindmap UI built with React. The application visuali
 ---
  ## 📸 Screenshots
 
-![Full Mindmap](D:\Documents\mindmap-ui\src\screenshots\Screenshot 2025-12-30 192427.png)
-![Hover Interaction](D:\Documents\mindmap-ui\src\screenshots\Screenshot 2025-12-30 193343.png)
+![Full Mindmap](\Screenshot 2025-12-30 192427.png)
+![Hover Interaction](\Screenshot 2025-12-30 193343.png)
 
