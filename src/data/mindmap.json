@@ -1,0 +1,29 @@
+
+{
+
+  "id": "root",
+  "title": "Frontend Development",
+  "children": [
+    {
+      "id": "html",
+      "title": "HTML",
+      "children": []
+    },
+    {
+      "id": "css",
+      "title": "CSS",
+      "children": []
+    },
+    {
+      "id": "react",
+      "title": "React",
+      "children": [
+        {
+          "id": "hooks",
+          "title": "Hooks",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
